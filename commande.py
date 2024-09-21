@@ -322,10 +322,10 @@ class commande(tk.Frame):
         self.label.place(relx=0.5, rely=0.48, anchor="center")
 
 
-root = tk.Tk()
+"""root = tk.Tk()
 root.minsize(600, 600)
 root.title("Varotra")
 accueil_frame = tk.Frame(root)
 mapage_frame = commande(root, accueil_frame)
 mapage_frame.pack(fill='both', expand=True)
-root.mainloop()
+root.mainloop()"""
